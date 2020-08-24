@@ -1,5 +1,7 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: "Harikrishna Vemula"
+date: "24/08/2020"
 output: 
   html_document:
     keep_md: true
