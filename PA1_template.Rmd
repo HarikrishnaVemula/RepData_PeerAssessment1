@@ -30,7 +30,7 @@ library(ggplot2)
 
 #### 1.Load the data (i.e. read.csv())
 
-```{r, results='Activities', warning=TRUE, message=TRUE}
+```{r message=TRUE, warning=TRUE, results='Activities'}
 if(!file.exists('activity.csv')){
     unzip('activity.zip')
 }
